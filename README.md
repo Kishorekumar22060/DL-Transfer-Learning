@@ -38,9 +38,9 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
+### Name: KISHORE KUMAR U
 
-### Register Number:
+### Register Number: 21222223303
 
 ```python
 # Load Pretrained Model and Modify for Transfer Learning
